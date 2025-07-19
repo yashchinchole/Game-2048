@@ -1,13 +1,13 @@
 # 2048 Game
 
-![](https://visitor-badge.laobi.icu/badge?page_id=yashchinchole/2048)
+![](https://visitor-badge.laobi.icu/badge?page_id=yashchinchole/Game-2048)
 
 This project is a classic implementation of the 2048 game where players merge tiles with the same numbers to reach the elusive 2048 tile.
 
 ## Live Demo
 
 You can play the 2048 Game online by visiting the following link:
-[2048 Game](https://yashchinchole.github.io/2048/)
+[2048 Game](https://yashchinchole.github.io/Game-2048/)
 
 ## Technologies Used
 
